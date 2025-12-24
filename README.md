@@ -1,2 +1,0 @@
-# web-dev-study
-THIS IS T0 STUDY WEB DEVELOPMENT
